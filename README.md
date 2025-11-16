@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anotherwally
 - 👀 I’m interested in software & game development
-- 🌱 I’m currently learning GDScript & gamedev related things (also pixel art)
+- 🌱 I’m currently learning Kotlin Multiplatform and preparing for my next AWS Certification
 - 📫 You can reach me in Twitter by using @_anotherwally
 
 <!---
